@@ -1,0 +1,15 @@
+D:/document/work/myself/IC_learning/FSM/FSM_tb.v {1 {vlog -work work -vopt -stats=none {D:\document\work\myself\IC_learning\FSM\FSM_tb.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module FSM_tb
+
+Top level modules:
+	FSM_tb
+
+} {} {}} D:/document/work/myself/IC_learning/FSM/FSMseq.v {1 {vlog -work work -vopt -stats=none D:/document/work/myself/IC_learning/FSM/FSMseq.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module FSMseq
+
+Top level modules:
+	FSMseq
+
+} {} {}}
